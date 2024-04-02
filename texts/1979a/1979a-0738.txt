@@ -1,0 +1,95 @@
+Apr. 26
+Administration of Jimmy Carter, 1979
+"marginal well" will be defined in the
+same manner as those terms are defined
+by current Department of Energy regula-
+tions.
+(b) Effective date
+The tax is to be effective on January 1,
+1980. It is a permanent tax.
+(c) Tax bases
+Lower tier. Under the President's de-
+control schedule, lower tier oil will be re-
+leased to the upper tier price in accord-
+ance with a decline rate applied to the
+producer's base period control level
+(BPCL). The BPCL is determined as of
+January 1, 1979 under recently issued De-
+partment of Energy regulations. For de-
+control purposes, the decline rate is 12
+percent per month during 1979, and 3
+percent per month thereafter.
+The taxable volume of lower tier oil
+will be the volume of lower tier oil freed
+to the upper tier under decontrol which
+exceeds the volume of oil which would
+be freed by reducing the January 1, 1980
+volume of lower tier oil by 2 percent of
+the BPCL per month.
+For purposes of computing taxable
+volume, the 2 percent reduction continues
+even after price controls expire on Sep-
+tember 30, 1981. Consequently, the tax-
+able volume of lower tier oil equals zero
+at the end of May, 1983.
+For purposes of computing the tax on
+lower tier oil, the base price is the con-
+trolled price of lower tier oil. Thus, oil
+which is now selling below its controlled
+price will be taxed only on the difference
+between the former controlled price and
+the price at which it is sold when freed to
+the upper
+tier.
+For the period following the termina-
+tion of controls, a constructive lower tier
+controlled price, generally based upon the
+present Department of Energy regula-
+tions, will be used in computing the lower
+tier base price. The constructive lower
+tier base price will be adjusted for infla-
+tion (as measured by the GNP deflator)
+by the Secretary of the Treasury in the
+same manner as the controlled price is
+currently adjusted for inflation under De-
+partment of Energy regulations.
+Any lower tier oil released to the upper
+tier under decontrol and not includible in
+the lower tier taxable volume will be in-
+cluded in the upper tier taxable volume
+and will be taxed at that level.
+The computation of the windfall profits
+tax at the lower tier level is illustrated by
+the following example:
+Producer A's BPCL for lower tier oil
+as of January 1, 1979 is 100X barrels per
+day. Under the Department of Energy
+decontrol schedule the volume of oil sub-
+ject to lower tier prices on December 31,
+1979 will be 82X barrels per day (100X
+barrels per day less 18X barrels per day
+representing a 12 percent decline for the
+12 months of 1979). During January,
+1980 A produces 83X barrels per day. Of
+that production, 4X barrels can be sold
+as upper tier oil, since the lower tier
+volume for January 1980 is 79X barrels
+per day. One X barrels per day, the differ-
+ence between the application of the 3 per-
+cent decline permitted under the Depart-
+ment of Energy decontrol schedule and
+the 2 percent decline permitted for pur-
+poses of computing the lower tier taxable
+volume, is the taxable volume of oil. Thus,
+if the controlled price of lower tier oil in
+January 1980 is $6 per barrel and the 1X
+taxable barrels per day are sold at the
+wellhead for $13 per barrel, the amount
+of tax would be equal to 50 percent
+× (1X barrels per day X 31 days) X
+($13 per barrel-$6 per barrel)
+$108.50X. The other decontrolled oil pro-
+duced in January 1980 (31 days × 3X
+barrels per day) will be included in the
+upper tier taxable volume.
+724
